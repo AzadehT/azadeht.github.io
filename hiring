@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head> 
+	
+	<title> Dr. Azadeh Tabiban's Homepage</title>
+	<link rel="icon" href="img/umanitobaIcon.png">
+	<meta charset="utf-8">
+	<meta name="author" content="pixelhint.com">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+	<!--  CSS Files Link -->
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
+	<link rel="stylesheet" type="text/css" href="css/owl.transitions.css"/>
+	<link rel="stylesheet" type="text/css" href="css/owl.carousel.css"/>
+	<link rel="stylesheet" type="text/css" href="css/animate.css"/>
+	<link rel="stylesheet" type="text/css" href="css/main.css"/>
+	<style> body {background: url(my_images/noise.jpg); } </style>
+	<!--  JS Files Link  -->
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/ajaxchimp.js"></script>
+	<script type="text/javascript" src="js/scrollTo.js"></script>
+	<script type="text/javascript" src="js/owl.carousel.min.js"></script>
+	<script type="text/javascript" src="js/wow.js"></script>
+	<script type="text/javascript" src="js/parallax.js"></script>
+	<script type="text/javascript" src="js/nicescroll.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
+</head>
+<body>
+	
+	<!--  Header Section  -->
+	<header>
+		<div class="container">
+			<!-- Name  -->
+			<h1 align="center" class=" text-success text-uppercase animated wow fadeInLeft">Azadeh Tabiban</h1>
+			<!-- Social Contact -->
+			<div align="center">
+				<ul class="list-unstyled">
+					<li class="animated wow fadeInRight" data-wow-delay="0s"><a href="https://www.linkedin.com/in/azadehtabiban/"><img src="img/linkedin.png" alt="" title=""></a>&emsp;<a href="https://scholar.google.com/citations?user=iyIEQJQAAAAJ&hl=en"><img src="img/GoogleScholar_.png" alt="" title=""></a></li>	
+						
+					
+				</ul>
+			</div>
+			<!-- Menu Bar-->
+			<nav>
+				<ul class="list-unstyled" >
+					<li class="animated wow fadeInLeft" data-wow-delay=".1s"><a href="#background">Academic Experience</a></li>					
+					<li class="animated wow fadeInLeft" data-wow-delay=".1s"><a href="#research">Research Interests</a></li>
+					<li class="animated wow fadeInLeft" data-wow-delay=".1s"><a href="#Publications">Publications</a></li>
+					<!--<li class="animated wow fadeInLeft" data-wow-delay=".1s"><a href="#talks">Talks</a></li> -->
+					<li class="animated wow fadeInLeft" data-wow-delay=".2s"><a href="#Students">Students</a></li>
+					<li class="animated wow fadeInLeft" data-wow-delay=".2s"><a href="#experience">Teaching</a></li>
+					<li class="animated wow fadeInLeft" data-wow-delay=".2s"><a href="#service">Service</a></li>
+					<li class="animated wow fadeInLeft" data-wow-delay=".2s"><a href="#contact">Contact</a></li>
+					
+				</ul>
+			</nav>
+			
+	<!--Enable for menu in mobile interface-->		
+	<!--<span class="burger_icon">menu</span>-->
+		</div>
+	</header>
+	<!--  End Header Section  -->
+
+	<!--  Hero Section  -->
+	<section class="home" id="home">
+		<div class="container">
+			<div class="row">				
+				<div class="col-sm-8">
+				<br/>
+				<h5 class="animated wow fadeInLeft" style="line-height:200%" align="justify"> I work as a tenure-track Assistant Professor at the Computer Science Department of <strong><a href="https://umanitoba.ca/science/computer-science">University of Manitoba</a></strong>. My research focuses on building scalable and intelligent technologies which increase the transparency and trustworthiness of real-world computing systems, and facilitate the security analysis tasks of human. One of my primary research goals is ensuring the industrial relevance and practicality of my built systems. My research contribution is published in prestigious venues such as <strong>NDSS'22</strong> (<q>Big 4</q> security conference, acceptance ratio 16.2%), IEEE Communications Magazine (impact factor 11.2), <strong>best paper candidate CNS'20</strong>, etc.
+					Previously, I was an industrial Postdoctoral Fellow at Ericsson Montreal collaborating with the <a href="https://cs.uwaterloo.ca/">University of Waterloo</a>. I completed my PhD at Concordia University (with Prof. <a href="http://users.encs.concordia.ca/~wang/">Lingyu Wang</a> and Prof. <a href="https://ca.linkedin.com/in/makan-pourzandi-a131b01">Makan Pourzandi</a>), when I was collaborating with Ericsson on <a href="https://arc.encs.concordia.ca/index.html" >NSERC/Ericsson IRC in SDN/NFV Security Project</a>.
+
+				<br><br>
+				
+					<font color="FF0000"><strong>Openings:</strong></font> Funded PhD and MSc positions. The desired experties include system/cloud/network security and machine learning applied to security (students from underrepresented and marginalized groups are specifically encouraged to apply). To apply, fill out <a href="https://forms.gle/NWvYDDugPEitk4Tp9" ><strong><font color="BLUE"><u>this form</u></font></strong></a> and then send an email to me (azadeh.tabiban [at] umanitoba [dot] ca). You must fulfill the department admission requirements. Please check <a href="https://umanitoba.ca/science/computer-science/graduate-programs-application-info"><font color="BLUE"><u>the department deadlines and requirements</u></font></a>. Due to the large number of emails I receive every day, you will only hear from me if you are shortlisted for the interview.
+					<br>
+					<!--The PhD student will work in collaboration with Ericsson Inc. on securing 5G mobile networks, and will gain valuable exposure to open problems in real-world telecommunication environments and existing alternative solutions.-->
+					<br>
+					<font color="ff0000"><strong>For UofM undergrad students:</strong></font> If you are interested in programming and cybersecurity, and are excited about joining us to build practical security solutions, drop me an email.
+
+				<!--CV is available <a href="AzadehTabibanCV.pdf""><strong><u>here</u></strong></a>. Please <a href="mailto:azadeh.tabiban@gmail.com">email</a> for my most recent CV.-->
+				
+				</div>	
+				<div class="col-sm-4">
+					<center>
+					<br/>
+					<img src="my_images/AzadehTabiban___.jpg" id="pic" height="201" width="200"/>
+					</br></br>
+					<p> <a href="AzadehTabiban_CV_.pdf" target="_blank">Curriculum Vitae</a> </p> <p><a href="https://twitter.com/Azadeh_Tabiban" class="twitter-follow-button" data-show-count="false">Follow @Azadeh_Tabiban</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+					
+					</center>
+		
+		
+		
+	<div class="bs-docs-section">
+	
+
+
+    
+		 
+		 
+					<!--</center>-->
+				</div>		
+			</div>
+		</div>
+	</section>
+	<!--  End home Section  -->
+
+	<hr class="divider">
+
+	<section class="background animated wow fadeInLeft"  id="background">
+		<div class="container">
+			<div class="row">
+				<h3 class=" text-success text-uppercase animated wow fadeInLeft">News</h1>
+					<div class="col-sm-10">
+					<ul>	
+						<li>4/2024: Our paper on  hardening smart grid substations against supply chain attacks got accepted by IEEE Transactions on Instrumentation and Measurement (TIM)</li>
+						<li>3/2024: Delighted and honored to receive NSERC Discovery Grant, "Scalable, Reliable and Robust Provenance in the New Era of Interconnected Intelligent Systems".</li>
+						<li>2/2024: Invited to serve on the TPC of ACSAC 2024</li>
+						<li>12/2023: Our paper on signaling storm in O-RAN got accepted at IEEE Communications Magazine (ComMag)</li>
+						<li>11/2023: Invited to serve on the TPC of EAI SecureComm 2024</li>
+						<li>10/2023: Very exciting news! <a href="https://ncc-cnc.ca/about/the-consortium/">National Cybersecurity Consortium (NCC)</a> funded our project on the security of 5G mobile networks. Looking forward to the impactful work with Ericsson Inc., Concordia and Waterloo University!</li>
+						
+												
+
+					
+					</ul>
+					</div>
+			</div>
+		</div>
+	</section>
+	
+	Description
+Multiple funded PhD and MSc graduate student positions are available at the University of Manitoba (Canada). The hired students will work on building effective technologies enhancing the transparency and trustworthiness of computing systems in the new era of interconnected intelligent systems. 
+
+Department
+Computer Science
+
+Role Description
+The Graduate Research Assistant will be involved in conducting research, developing, validating and integrating security solutions, data analysis, communicating and supporting knowledge transfers on a day-to-day basis, and writing high-quality research papers.
+
+Qualifications
+Master's: Interested candidates must or close to have a Bachelor's degree in Computer Science or relevant fields with a minor in Computer Science (minimum of 5 courses in CS. The full list of courses in CS can be found at https://umanitoba.ca/science/computer-science/course-offerings). Desired expertise include: system and network security, solid background in Operating Systems and coding experience in Machine Learning (e.g., Deep Learning)
+PhD: Interested candidates must or close to have a Master's degree in Computer Science or relevant fields with a minor in Computer Science (minimum of 5 courses in CS. The full list of courses in CS can be found at https://umanitoba.ca/science/computer-science/course-offerings). Desired expertise include: system and network security, solid background in Operating Systems, and coding experience in Machine Learning (e.g., Deep Learning). Having publication record for PhD applicants is preferred.
+Strong ability in problem-solving and critical thinking
+Effective communication and writing skills
+
+Principle Investigator (PI)
+Dr. Azadeh Tabiban
+
+Application Instructions
+Interested applicants who meet the qualifications should submit their CV and transcript(s) by email to azadeh.tabiban@umanitoba.ca. We thank all the applicants, but only those that are shortlisted for the interview will be contacted. Department deadlines can be found at https://umanitoba.ca/science/computer-science/graduate-programs-application-info
+
+About the University of Manitoba and Computer Science department
+Ranked consistently among 15 leading research-intensive universities across Canada (https://u15.ca/about-us/our-members/), we offer a dynamic blend of theoretical and practical knowledge, designed to push the boundaries of innovation in technology. Our faculty are leaders in fields such as artificial intelligence, cybersecurity, and machine learning, fostering a cutting-edge learning environment.
+The University of Manitoba campuses are located on original lands of Anishinaabeg, Cree, Oji-Cree, Dakota, and Dene peoples, and on the homeland of the Métis Nation. 
+
+About Winnipeg
+The City of Winnipeg (www.tourismwinnipeg.com), located where the Red and Assiniboine Rivers meet, is recognized for its vibrant, multicultural community and diverse culture. The city, with a growing population of more than 766,000, is home to internationally renowned festivals, galleries and museums, the historic Exchange District and The Forks, and ever-expanding research, education, and business sectors. From the Hudson Bay waters, across the farmland fields, to the pulse of the cities and towns, the Province of Manitoba’s (www.travelmanitoba.com) has 100,000 lakes, 92 provincial parks, winding river valleys and storied prairie skies!
+
+
+	<hr class="divider">
+	
+	<!--  Contact Section  -->
+	<section class="contact animated wow fadeInLeft" id="contact">
+		<div class="container">
+			<div class="row">
+				<h3 class="text-success text-uppercase animated wow fadeInLeft">Contact</h3>
+				<strong>Email:</strong> azadeh.tabiban [at] umanitoba [dot] ca / azadeh.tabiban [at] gmail [dot] com <br /> 
+        		<strong>Office:</strong> E2-574 EITC <br /> 
+        		<strong>Phone:</strong> 204-474-8456  <br /> 
+        		<strong>Mailing Address:</strong> 75 Chancellors Cir, Winnipeg, Manitoba, Canada, R3T 5V6 <br /> <br />
+			</div>
+		</div>
+	</section>
+	<!--  End Contact Section  -->
+
+<!--  Workaround for page redirect in internal linking for some versions of google crome-->	
+<script>
+$(function() {
+$('a[href*=#]:not([href=#])').click(function() {
+if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+var target = $(this.hash);
+target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+if (target.length) {
+$('html,body').animate({
+scrollTop: target.offset().top -80
+}, 1000);
+return false;
+}
+}
+});
+});
+</script> 
+	
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=8016890&style=0007&nbdigits=5&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>                                    
+                                
+
+</body>
+</html>
